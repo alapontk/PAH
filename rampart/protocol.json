@@ -1,0 +1,10 @@
+{
+  "name": "ARTIC PKU protocol v1.0",
+  "description": "Amplicon based sequencing of PAH gene.",
+  "url": "http://artic.network/",
+  "displayOptions": {
+    "coverageThresholds": {
+      ">200x": 200, ">100x": 100, ">20x": 20, "0x": 0
+    }
+  }
+}
