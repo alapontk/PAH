@@ -1,0 +1,16 @@
+{
+  "label": "PAH",
+  "length": 82282,
+  "genes": {
+    "PAH": {
+      "start": 1568,
+      "end": 80846,
+      "strand":1
+    },
+    "reference": {
+      "label": "Huamn PAH",
+      "accession": "ENSG00000171759",
+      "sequence": ""
+    }
+  }
+  
